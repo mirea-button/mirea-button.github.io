@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.bab55bac.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.12ba50f8.js",
+    "main.js": "/static/js/main.ee060054.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.0c614f81.js",
     "static/css/2.98d9feec.chunk.css": "/static/css/2.98d9feec.chunk.css",
     "static/js/2.62f30982.chunk.js": "/static/js/2.62f30982.chunk.js",
     "static/js/3.68a3a6a8.chunk.js": "/static/js/3.68a3a6a8.chunk.js",
     "static/js/4.5dfec650.chunk.js": "/static/js/4.5dfec650.chunk.js",
-    "static/js/5.3c70ec0c.chunk.js": "/static/js/5.3c70ec0c.chunk.js",
+    "static/js/5.e064c9bc.chunk.js": "/static/js/5.e064c9bc.chunk.js",
     "static/js/6.462ae627.chunk.js": "/static/js/6.462ae627.chunk.js",
     "static/js/7.6a3b1534.chunk.js": "/static/js/7.6a3b1534.chunk.js",
     "index.html": "/index.html",
@@ -15,9 +15,9 @@
     "static/media/Sakura_Arrow.a09c71f2.cur": "/static/media/Sakura_Arrow.a09c71f2.cur"
   },
   "entrypoints": [
-    "static/js/runtime-main.12ba50f8.js",
+    "static/js/runtime-main.0c614f81.js",
     "static/css/2.98d9feec.chunk.css",
     "static/js/2.62f30982.chunk.js",
-    "static/js/main.bab55bac.chunk.js"
+    "static/js/main.ee060054.chunk.js"
   ]
 }
