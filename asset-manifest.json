@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.37eea774.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.7e88867a.js",
+    "main.js": "/static/js/main.9f9fad90.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.dacdc210.js",
     "static/css/2.98d9feec.chunk.css": "/static/css/2.98d9feec.chunk.css",
-    "static/js/2.62f30982.chunk.js": "/static/js/2.62f30982.chunk.js",
+    "static/js/2.d72cef6a.chunk.js": "/static/js/2.d72cef6a.chunk.js",
     "static/js/3.79edc1e8.chunk.js": "/static/js/3.79edc1e8.chunk.js",
     "static/js/4.5dfec650.chunk.js": "/static/js/4.5dfec650.chunk.js",
-    "static/js/5.35bc75f9.chunk.js": "/static/js/5.35bc75f9.chunk.js",
+    "static/js/5.6cd9fa8a.chunk.js": "/static/js/5.6cd9fa8a.chunk.js",
     "static/js/6.462ae627.chunk.js": "/static/js/6.462ae627.chunk.js",
     "static/js/7.6a3b1534.chunk.js": "/static/js/7.6a3b1534.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.62f30982.chunk.js.LICENSE.txt": "/static/js/2.62f30982.chunk.js.LICENSE.txt",
+    "static/js/2.d72cef6a.chunk.js.LICENSE.txt": "/static/js/2.d72cef6a.chunk.js.LICENSE.txt",
     "static/js/4.5dfec650.chunk.js.LICENSE.txt": "/static/js/4.5dfec650.chunk.js.LICENSE.txt",
     "static/media/Sakura_Arrow.a09c71f2.cur": "/static/media/Sakura_Arrow.a09c71f2.cur"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e88867a.js",
+    "static/js/runtime-main.dacdc210.js",
     "static/css/2.98d9feec.chunk.css",
-    "static/js/2.62f30982.chunk.js",
-    "static/js/main.37eea774.chunk.js"
+    "static/js/2.d72cef6a.chunk.js",
+    "static/js/main.9f9fad90.chunk.js"
   ]
 }
